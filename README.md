@@ -1,7 +1,7 @@
-# PetStore QA Portfolio
+# PetStore QA 
 
 ## Project overview
-This repository contains my manual QA portfolio project based on the PetStore application.
+This repository contains my manual QA project based on the PetStore application.
 
 The project presents my approach to:
 - requirements analysis
@@ -11,7 +11,7 @@ The project presents my approach to:
 - test documentation
 
 ## Project scope
-The portfolio covers selected PetStore areas:
+The project covers selected PetStore areas:
 - Registration
 - Sign In
 - Search
@@ -39,14 +39,6 @@ The portfolio covers selected PetStore areas:
 - Excel / Google Sheets
 - Manual bug reporting templates
 
-## Skills presented
-This portfolio demonstrates my skills in:
-- requirements analysis
-- test design
-- writing test cases
-- creating bug reports
-- executing manual tests
-- organizing QA documentation
 
 ## Short description
-This repository contains my practice QA project for the PetStore application. It includes manual test cases, bug reports, checklist execution results, and requirements-based analysis.
+This repository contains project for the PetStore application. It includes manual test cases, bug reports, checklist execution results, and requirements-based analysis.
