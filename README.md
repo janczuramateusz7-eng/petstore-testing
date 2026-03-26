@@ -1,58 +1,52 @@
-# PetStore Testing Project
+# PetStore QA Portfolio
 
----
+## Project overview
+This repository contains my manual QA portfolio project based on the PetStore application.
 
-## 📌 Project Overview
-
-This repository contains a manual testing project for the PetStore application.
-
-The project includes:
-- exploratory testing
+The project presents my approach to:
+- requirements analysis
+- test case design
+- manual test execution
 - bug reporting
-- bug summaries
-- test scenarios
-- test summary
+- test documentation
 
----
+## Project scope
+The portfolio covers selected PetStore areas:
+- Registration
+- Sign In
+- Search
+- Cart
+- Product ordering flow
 
-## 🎯 Scope
+## Test types used
+- Functional testing
+- Exploratory testing
+- Positive testing
+- Negative testing
+- Requirements-based testing
 
-Testing focused on the main user-facing functionality of the application.
+## Repository structure
+- `docs/` – project overview, requirements analysis, strategy, and summary
+- `bug-reports/` – selected bug reports
+- `test-cases/` – test cases and checklist results
+- `evidence/` – screenshots and videos
+- `assets/` – optional graphics
 
----
-
-## 🧪 Tested Areas
-
-- search functionality
-- account information
-- shopping cart
-- categories
-- text/input validation
-
----
-
-## 🛠 Tools Used
-
+## Tools used
 - Chrome
+- Windows 11
 - GitHub
-- Jira-style bug reporting format
+- Excel / Google Sheets
+- Manual bug reporting templates
 
----
+## Skills presented
+This portfolio demonstrates my skills in:
+- requirements analysis
+- test design
+- writing test cases
+- creating bug reports
+- executing manual tests
+- organizing QA documentation
 
-## 📂 Repository Structure
-
-- `/docs` → bug summaries, test scenarios, test summary  
-- `/bugs` → full bug reports  
-- `/screenshots` → evidence for selected bugs  
-
----
-
-## 🐞 Results
-
-Multiple functional and UI-related issues were identified during testing.
-
----
-
-## 👤 Author
-
-Mateusz Janczura
+## Short description
+This repository contains my practice QA project for the PetStore application. It includes manual test cases, bug reports, checklist execution results, and requirements-based analysis.
