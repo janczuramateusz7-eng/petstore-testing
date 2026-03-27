@@ -20,4 +20,5 @@ The cart should be updated according to the changes (e.g. quantity, total price)
 The cart is not updated. The quantity and total price remain unchanged.
 
 ### Attachment
-[PS-0004.png](../attachments/bug-screenshots/PS-0004.png)
+<img width="1190" height="376" alt="PS-0004" src="https://github.com/user-attachments/assets/d5ac205a-92f3-438c-a9ac-d5ba4a861d94" />
+
