@@ -20,4 +20,4 @@ The system should display a validation error message and prevent saving incorrec
 The system accepts the invalid email address and saves the data without any validation error.
 
 ### Attachment
-[[PS-0002.png](../attachments/bug-screenshots/PS-0002.png)](https://drive.google.com/file/d/1y07th4Ncml_ojUkHJjjLsCsEocBYLnxO/view)
+(../attachments/bug-screenshots/PS-0002.png)](https://drive.google.com/file/d/1y07th4Ncml_ojUkHJjjLsCsEocBYLnxO/view)
