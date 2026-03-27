@@ -21,4 +21,5 @@ The system prevents adding out-of-stock products.
 The user can add out-of-stock products without restriction.
 
 ### Attachment
-![PS-0015](../attachments/bug-screenshots/PS-0015.png)
+<img width="1189" height="407" alt="PS-0015" src="https://github.com/user-attachments/assets/76bef1e7-12f4-40eb-9416-91ecee1e7b98" />
+
