@@ -20,5 +20,3 @@ A warning message about limited stock availability is displayed.
 ### Actual Result
 The system allows adding large quantities without any warning.
 
-### Attachment
-![PS-0014](../attachments/bug-screenshots/PS-0014.png)
