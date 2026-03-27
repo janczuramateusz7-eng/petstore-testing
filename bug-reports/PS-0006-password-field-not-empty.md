@@ -19,3 +19,4 @@ The Password field should be empty when the Sign In page is opened.
 The Password field is pre-filled (dots are visible), indicating that a password value is already present.
 
 ### Attachment
+<img width="1186" height="375" alt="PS-0006" src="https://github.com/user-attachments/assets/3dee3c1f-68d1-4203-945c-04a1622523c3" />
