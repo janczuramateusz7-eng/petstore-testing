@@ -18,5 +18,4 @@ A tooltip labeled "Cart" is displayed.
 ### Actual Result
 No tooltip is displayed when hovering over the Cart icon.
 
-### Attachment
-![PS-0009](../attachments/bug-screenshots/PS-0009.png)
+
