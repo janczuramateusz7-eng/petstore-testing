@@ -19,5 +19,3 @@ The system prevents adding more than 5 identical products.
 ### Actual Result
 The system allows adding more than 5 identical products without restriction.
 
-### Attachment
-![PS-0012](../attachments/bug-screenshots/PS-0012.png)
