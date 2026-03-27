@@ -20,4 +20,5 @@ Polish characters should be displayed correctly according to UTF-8 encoding.
 Polish characters are displayed incorrectly (e.g. as unreadable or corrupted symbols).
 
 ### Attachment
-[PS-0005.png](../attachments/bug-screenshots/PS-0005.png)
+<img width="1170" height="599" alt="PS-0005" src="https://github.com/user-attachments/assets/63ebdd14-85fd-4f4b-82d1-0128ac7f197a" />
+
