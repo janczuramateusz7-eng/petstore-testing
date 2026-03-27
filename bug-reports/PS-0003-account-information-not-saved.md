@@ -21,4 +21,5 @@ The updated user data should be saved and displayed correctly after refreshing t
 The changes are not saved. The previously stored data is still displayed.
 
 ### Attachment
-[PS-0003.png](../attachments/bug-screenshots/PS-0003.png)
+<img width="1168" height="576" alt="PS-0003" src="https://github.com/user-attachments/assets/8ae70a8e-a2ee-41c2-849c-66bb4160472c" />
+
