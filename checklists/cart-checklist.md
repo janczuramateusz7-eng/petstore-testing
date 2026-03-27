@@ -6,7 +6,7 @@
 
 ## Test Run Information
 - **Module:** Cart
-- **Run date:** `dd/mm/yy`
+- **Run date:** `29/07/2025`
 - **Environment:** Production
 - **Browser:** Chrome (latest)
 - **Operating System:** Windows 11
