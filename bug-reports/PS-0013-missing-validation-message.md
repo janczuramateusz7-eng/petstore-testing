@@ -20,4 +20,5 @@ A validation message is displayed informing the user about the quantity limit.
 No validation message is displayed.
 
 ### Attachment
-![PS-0013](../attachments/bug-screenshots/PS-0013.png)
+<img width="1189" height="377" alt="PS-0013" src="https://github.com/user-attachments/assets/207b18a1-cad4-441c-9472-9b19e4f9d16b" />
+
