@@ -21,4 +21,5 @@ The product name is displayed in the cart.
 The product name is not displayed in the cart.
 
 ### Attachment
-![PS-0010](../attachments/bug-screenshots/PS-0010.png)
+<img width="1181" height="404" alt="PS-0010" src="https://github.com/user-attachments/assets/a3b2ccc1-becc-4f13-a07d-1eb2f8520e5f" />
+
