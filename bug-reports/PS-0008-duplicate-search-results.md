@@ -20,3 +20,4 @@ Each search result should be displayed only once.
 Each unique search result is displayed twice.
 
 ### Attachment
+<img width="1170" height="578" alt="PS-0008" src="https://github.com/user-attachments/assets/7836736f-25fc-465c-a07e-07e004a045f2" />
