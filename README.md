@@ -1,44 +1,99 @@
-# PetStore QA 
+# PetStore QA Portfolio — Manual Testing Project
 
-## Project overview
-This repository contains my manual QA project based on the PetStore application.
+## Overview
+This repository presents a manual testing project based on the PetStore application.  
+The goal of this project was to simulate real QA work, including requirements analysis, test design, execution, and defect reporting.
 
-The project presents my approach to:
-- requirements analysis
-- test case design
-- manual test execution
-- bug reporting
-- test documentation
+---
 
-## Project scope
-The project covers selected PetStore areas:
+## Project Scope
+
+The testing covered the following modules:
 - Registration
-- Sign In
+- Login
 - Search
 - Cart
-- Product ordering flow
 
-## Test types used
-- Functional testing
-- Exploratory testing
-- Positive testing
-- Negative testing
-- Requirements-based testing
+---
 
-## Repository structure
-- `docs/` – project overview, requirements analysis, strategy, and summary
-- `bug-reports/` – selected bug reports
-- `test-cases/` – test cases and checklist results
-- `evidence/` – screenshots and videos
-- `assets/` – optional graphics
+## Test Approach
 
-## Tools used
-- Chrome
-- Windows 11
-- GitHub
-- Excel / Google Sheets
-- Manual bug reporting templates
+The project includes:
 
+- Requirements analysis
+- Test cases design
+- Checklist creation and execution
+- Bug reporting
+- Test summary report
 
-## Short description
-This repository contains project for the PetStore application. It includes manual test cases, bug reports, checklist execution results, and requirements-based analysis.
+---
+
+## Test Environment
+
+- **Application:** PetStore (Demo)
+- **Environment:** Production
+- **Browser:** Chrome (latest)
+- **Operating System:** Windows 11
+
+---
+
+## Test Artifacts
+
+### Documentation
+- [Test Report](./docs/test-report.md)
+- [Cart Requirements](./docs/cart-requirements.md)
+- [Registration Requirements](./docs/registration-requirements.md)
+
+---
+
+### Test Cases
+- [Login](./test-cases/login.md)
+- [Registration](./test-cases/registration.md)
+- [Search](./test-cases/search.md)
+- [Cart](./test-cases/cart.md)
+
+---
+
+### Checklists
+- [Cart Checklist](./checklists/cart-checklist.md)
+
+---
+
+### Bug Reports
+- [Bug Reports](./bug-reports/README.md)
+
+---
+
+## Key Findings
+
+- Validation issues in Registration and Cart modules
+- Critical defects in Cart (quantity limits and stock handling)
+- Search functionality issues (duplicate results, validation)
+- UI inconsistencies (missing tooltip, inconsistent navigation)
+
+---
+
+## Skills Demonstrated
+
+- Manual testing
+- Test case design
+- Bug reporting (Severity, Priority, Steps, ER/AR)
+- Requirements analysis
+- Checklist-based testing
+- Defect analysis
+- Test documentation
+
+---
+
+## Conclusion
+
+This project demonstrates a full manual QA testing cycle, including:
+- requirement analysis
+- test design
+- execution
+- defect reporting
+- final test reporting
+
+The identified defects highlight areas requiring improvement before production release.
+
+---
