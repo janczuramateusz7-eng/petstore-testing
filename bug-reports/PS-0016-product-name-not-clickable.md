@@ -21,4 +21,5 @@ The product name should be clickable and redirect to the product details page.
 The product name is not clickable.
 
 ### Attachment
-![PS-0016](../attachments/bug-screenshots/PS-0016.png)
+<img width="1190" height="402" alt="PS-0016" src="https://github.com/user-attachments/assets/ca9153cd-421d-423c-a977-7ae12a61999f" />
+
