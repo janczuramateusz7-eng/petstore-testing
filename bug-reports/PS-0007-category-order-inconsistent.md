@@ -20,3 +20,4 @@ The category order should be consistent across all navigation sections.
 The category order differs between the top navigation bar and the left sidebar.
 
 ### Attachment
+<img width="1186" height="375" alt="PS-0006" src="https://github.com/user-attachments/assets/3dee3c1f-68d1-4203-945c-04a1622523c3" />
