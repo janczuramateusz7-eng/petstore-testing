@@ -21,4 +21,5 @@ Only one validation message should be displayed informing the user that the Sear
 Two identical validation messages are displayed for the empty Search field.
 
 ### Attachment
+<img width="1189" height="577" alt="PS-0001" src="https://github.com/user-attachments/assets/d112082d-e859-4107-b9d4-c23d07dda155" />
 
