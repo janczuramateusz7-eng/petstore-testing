@@ -19,5 +19,3 @@ The Cart icon displays a badge with the number of added items.
 ### Actual Result
 No badge or item count is displayed on the Cart icon.
 
-### Attachment
-![PS-0011](../attachments/bug-screenshots/PS-0011.png)
